@@ -1,34 +1,64 @@
-.countdown {
+.countdownContainer {
+  min-height: 100vh;
   display: flex;
-  gap: 2rem;
+  align-items: center;
+  justify-content: center;
 
-  border: 0.25rem solid;
-  padding: 0 3rem 3rem;
-  border-radius: 6rem;
+  .wreathContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
 
-  user-select: none;
-
-  .box {
-    width: 6rem;
-
-    .timePart {
-      font-size: 6rem;
-    }
-
-    .text {
-      font-size: 1rem;
-      text-align: center;
-      text-transform: uppercase;
+    img {
+      width: 20rem;
     }
   }
 
-  .divider {
+  .countdown {
     display: flex;
-    align-items: flex-end;
-    margin-bottom: 1rem;
+    gap: 2rem;
+
+    border: 0.25rem solid;
+    padding: 0 3rem 3rem;
+    border-radius: 6rem;
+
+    user-select: none;
+
+    color: #ffffff;
+
+    .box {
+      width: 8rem;
+
+      .timePart {
+        font-size: 6rem;
+        text-align: center;
+      }
+
+      .text {
+        font-size: 1rem;
+        text-align: center;
+        text-transform: uppercase;
+      }
+    }
+
+    .divider {
+      display: flex;
+      align-items: flex-end;
+      margin-bottom: 1rem;
+
+      img {
+        width: 7rem;
+      }
+    }
+  }
+
+  .snowmanContainer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
 
     img {
-      width: 7rem;
+      width: 20rem;
     }
   }
 }
