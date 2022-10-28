@@ -1,5 +1,3 @@
-import { useEffect, useState } from "react";
-
 import snowman from "../../assets/images/snowman.png";
 import wreath from "../../assets/images/winter-wreath.png";
 import christmasGift from "../../assets/images/christmas-gift.png";
@@ -8,19 +6,7 @@ import snowGlobe from "../../assets/images/snow-globe.png";
 
 import classes from "./Countdown.module.scss";
 
-const Countdown = ({ date }) => {
-  const [countdown, setCountdown] = useState(
-    new Date(date).getTime() - new Date().getTime()
-  );
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCountdown(new Date(date).getTime() - new Date().getTime());
-    }, 1000);
-
-    return () => clearInterval(interval);
-  });
-
+const Countdown = ({ countdown }) => {
   const days = Math.floor(countdown / (1000 * 60 * 60 * 24));
   const hours = Math.floor(
     (countdown % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)

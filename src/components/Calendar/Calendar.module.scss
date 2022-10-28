@@ -1,0 +1,14 @@
+.container {
+  min-height: 100vh;
+
+  .calendar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 5rem;
+
+    .day {
+      width: 20rem;
+      height: 20rem;
+    }
+  }
+}
