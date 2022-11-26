@@ -1,5 +1,6 @@
 .countdownContainer {
   min-height: 100vh;
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -59,6 +60,32 @@
 
     img {
       width: 20rem;
+    }
+  }
+}
+
+@media (max-height: 450px) {
+  .countdownContainer {
+    min-height: 140vh;
+  }
+}
+
+@media (min-height: 450px) {
+  .countdownContainer {
+    min-height: 120vh;
+  }
+}
+
+@media (min-height: 550px) {
+  .countdownContainer {
+    min-height: 100vh;
+  }
+}
+
+@media (max-width: 600px) and (orientation: portrait) {
+  .countdownContainer {
+    .countdown {
+      flex-direction: column;
     }
   }
 }
