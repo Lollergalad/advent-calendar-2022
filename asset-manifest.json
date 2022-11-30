@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/advent-calendar-2022/static/css/main.ec94b7bb.css",
-    "main.js": "/advent-calendar-2022/static/js/main.d2480d93.js",
+    "main.css": "/advent-calendar-2022/static/css/main.2c7cec11.css",
+    "main.js": "/advent-calendar-2022/static/js/main.f2836dfc.js",
     "static/js/787.04ad526c.chunk.js": "/advent-calendar-2022/static/js/787.04ad526c.chunk.js",
+    "static/media/calendar_day_23.jpeg": "/advent-calendar-2022/static/media/calendar_day_23.32354965a35d1b5265ed.jpeg",
+    "static/media/calendar_day_03.jpg": "/advent-calendar-2022/static/media/calendar_day_03.15869ea980fdb31cec04.jpg",
+    "static/media/calendar_day_24.jpg": "/advent-calendar-2022/static/media/calendar_day_24.7f5d0e55477247db4a74.jpg",
+    "static/media/calendar_day_02.jpg": "/advent-calendar-2022/static/media/calendar_day_02.8603664fa9012c2f710b.jpg",
+    "static/media/calendar_day_01.jpeg": "/advent-calendar-2022/static/media/calendar_day_01.077df54e03fe98dff198.jpeg",
+    "static/media/calendar_day_22.jpg": "/advent-calendar-2022/static/media/calendar_day_22.aee283f9cbf9f03768d7.jpg",
+    "static/media/calendar_day_04.jpg": "/advent-calendar-2022/static/media/calendar_day_04.746a34d3d1846385122f.jpg",
+    "static/media/calendar_day_05.jpg": "/advent-calendar-2022/static/media/calendar_day_05.f6746977f0aa7fb5a2c8.jpg",
+    "static/media/calendar_day_21.jpg": "/advent-calendar-2022/static/media/calendar_day_21.1ef82831611b87386047.jpg",
     "static/media/snow-globe.png": "/advent-calendar-2022/static/media/snow-globe.8ba57ed7a2115f57ee9d.png",
     "static/media/winter-wreath.png": "/advent-calendar-2022/static/media/winter-wreath.890bde13926e742083e6.png",
     "static/media/christmas-tree.png": "/advent-calendar-2022/static/media/christmas-tree.e5a1b56eca43cfa8ec0c.png",
     "static/media/snowman.png": "/advent-calendar-2022/static/media/snowman.d30471d57498c3d92a78.png",
     "static/media/christmas-gift.png": "/advent-calendar-2022/static/media/christmas-gift.bbe529f54139c823ffcf.png",
     "index.html": "/advent-calendar-2022/index.html",
-    "main.ec94b7bb.css.map": "/advent-calendar-2022/static/css/main.ec94b7bb.css.map",
-    "main.d2480d93.js.map": "/advent-calendar-2022/static/js/main.d2480d93.js.map",
+    "main.2c7cec11.css.map": "/advent-calendar-2022/static/css/main.2c7cec11.css.map",
+    "main.f2836dfc.js.map": "/advent-calendar-2022/static/js/main.f2836dfc.js.map",
     "787.04ad526c.chunk.js.map": "/advent-calendar-2022/static/js/787.04ad526c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec94b7bb.css",
-    "static/js/main.d2480d93.js"
+    "static/css/main.2c7cec11.css",
+    "static/js/main.f2836dfc.js"
   ]
 }
