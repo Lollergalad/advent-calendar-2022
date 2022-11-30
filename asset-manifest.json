@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/advent-calendar-2022/static/css/main.2c7cec11.css",
-    "main.js": "/advent-calendar-2022/static/js/main.f2836dfc.js",
+    "main.js": "/advent-calendar-2022/static/js/main.2eae4842.js",
     "static/js/787.04ad526c.chunk.js": "/advent-calendar-2022/static/js/787.04ad526c.chunk.js",
     "static/media/calendar_day_23.jpeg": "/advent-calendar-2022/static/media/calendar_day_23.32354965a35d1b5265ed.jpeg",
     "static/media/calendar_day_03.jpg": "/advent-calendar-2022/static/media/calendar_day_03.15869ea980fdb31cec04.jpg",
@@ -19,11 +19,11 @@
     "static/media/christmas-gift.png": "/advent-calendar-2022/static/media/christmas-gift.bbe529f54139c823ffcf.png",
     "index.html": "/advent-calendar-2022/index.html",
     "main.2c7cec11.css.map": "/advent-calendar-2022/static/css/main.2c7cec11.css.map",
-    "main.f2836dfc.js.map": "/advent-calendar-2022/static/js/main.f2836dfc.js.map",
+    "main.2eae4842.js.map": "/advent-calendar-2022/static/js/main.2eae4842.js.map",
     "787.04ad526c.chunk.js.map": "/advent-calendar-2022/static/js/787.04ad526c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7cec11.css",
-    "static/js/main.f2836dfc.js"
+    "static/js/main.2eae4842.js"
   ]
 }
